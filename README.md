@@ -33,7 +33,7 @@ Please feel to contribute. Your advice and contributions are welcome! Just updat
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](LICENSE) file for details
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](LICENSE) file for details.
 
 ## Notice
 
